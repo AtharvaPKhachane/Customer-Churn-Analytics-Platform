@@ -97,6 +97,18 @@ Customer-Churn-Analytics-Platform
 
 ---
 
+## Live Demo
+
+Streamlit Application:
+
+[https://your-streamlit-link.streamlit.app](http://localhost:8501/)
+
+## Streamlit Application
+
+![Streamlit App](streamlit_app_page-0001.jpg)
+
+---
+
 ## Machine Learning Results
 
 ### Model
